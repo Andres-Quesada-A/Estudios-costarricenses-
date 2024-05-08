@@ -21,3 +21,5 @@
 # Industria, Innovación e Infraestructura
 
 - El mayor productor y generador de valor es lo relacionado con el “alojamiento”; y en segundo lugar, se encuentra “otras industrias conexas al turismo”.
+- El turismo puede impulsar la industria local al fomentar la demanda de productos manufacturados locales, desde artesanías hasta productos de alimentación.
+- 
